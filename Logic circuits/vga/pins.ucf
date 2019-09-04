@@ -1,0 +1,7 @@
+Net "CLK" LOC=p184;
+Net "RBG<0>" LOC=p191;
+Net "RBG<1>" LOC=p189;
+Net "RBG<2>" LOC=p190;
+Net "HSYNC" LOC=p187;
+Net "VSYNC" LOC=p185;
+Net "RST" LOC=p186;
