@@ -1,0 +1,15 @@
+NET "clk" LOC = P184;
+
+NET "en1" LOC = P144;
+NET "en2" LOC = P143;
+
+NET "num[0]" LOC = P146;
+NET "num[1]" LOC = P148;
+NET "num[2]" LOC = P154;
+NET "num[3]" LOC = P150;
+NET "num[4]" LOC = P149;
+NET "num[5]" LOC = P147;
+NET "num[6]" LOC = P155;
+
+NET "mode" LOC = P78;
+NET "reset" LOC = P77;
