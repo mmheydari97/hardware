@@ -1,0 +1,13 @@
+NET "clk" LOC = P184;
+
+NET "rgb[0]" LOC = P189;
+NET "rgb[1]" LOC = P190;
+NET "rgb[2]" LOC = P191;
+
+NET "sw[0]" LOC = P78;
+NET "sw[1]" LOC = P77;
+NET "sw[2]" LOC = P76;
+
+
+NET "hsync" LOC = P187;
+NET "vsync" LOC = P185;
