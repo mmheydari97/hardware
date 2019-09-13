@@ -6,10 +6,10 @@ of glass to the desired value.
 
 The microcontroller takes action when the temperature reported by an LM32 sensor is not within
 a threshold of the desired value and turns the motor of a hairdryer on. When the temperature
-is below desired, the heating coil will also be turned on so that the hairdryer blows hot.
+is below desired, the heating coil will also be turned on so that the hairdryer blow hot.
 
 A user can change the desired temperature by some push-buttons and both desired and the current
-temperature is visible on a character LCD. 
+temperature is visible on a character LCD screen. 
 
 For more stability, I used a digital filter too.
 
